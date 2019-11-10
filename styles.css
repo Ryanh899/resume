@@ -80,6 +80,7 @@
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 300;
+    margin-bottom: 0px;
 }
 
 #saddleback-content {
@@ -103,6 +104,7 @@
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 300;
+    margin-bottom: 0px;
 }
 
 #uci-content {
@@ -132,6 +134,7 @@
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 300;
+    margin-bottom: 0px;
 }
 
 #cafe-content {
@@ -219,4 +222,11 @@
 
 .projects-content {
     margin-top: 0px;
+}
+
+.time-here {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin-bottom: 0px;
 }
