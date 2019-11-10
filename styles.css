@@ -1,0 +1,222 @@
+#oage-container {
+    height: 100vh;
+}
+
+#header-column {
+    text-align: center;
+}
+
+#header-link-column {
+    margin-bottom: 0px; 
+    padding-bottom: 0px;
+}
+
+#header-name {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+#header-title-column {
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+
+#header-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.header-link {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.header-contact {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+#header-divider {
+    font-size: 18px;
+    color: black;
+}
+
+#header-name-column {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+#education-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    font-weight: 100;
+}
+
+#saddleback-column {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#saddleback-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+#saddleback-degree {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#saddleback-content {
+    font-family: 'Roboto' sans-serif;
+    font-weight: 300;
+}
+
+#uci-column {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#uci-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+#uci-subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#uci-content {
+    font-family: 'Roboto' sans-serif;
+    font-weight: 300;
+}
+
+#experience-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    font-weight: 100;
+}
+
+#experience-column {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#cafe-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+#cafe-subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#cafe-content {
+    font-family: 'Roboto' sans-serif;
+    font-weight: 300;
+}
+
+#about-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    font-weight: 100;
+    margin-bottom: 0px;
+}
+
+#about-content {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+#skills-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    font-weight: 100;
+    margin-bottom: 0px;
+}
+
+.skills-content {
+    /* font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 300; */
+    margin-top: 0px;
+}
+
+#skills-column {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#projects-title {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+#about-column {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+/* #vision-title { 
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+
+
+#vision-column {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#vision-content {
+    margin-top: 0px;
+} */
+
+#projects-title-column {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.projects-column {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.projects-inner-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+.projects-content {
+    margin-top: 0px;
+}
