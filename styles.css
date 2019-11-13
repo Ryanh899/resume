@@ -1,4 +1,4 @@
-#oage-container {
+#page-container {
     height: 100vh;
 }
 
@@ -72,14 +72,14 @@
 #saddleback-title {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 500;
     margin-bottom: 0px;
 }
 
 #saddleback-degree {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 400;
     margin-bottom: 0px;
 }
 
@@ -96,14 +96,14 @@
 #uci-title {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 500;
     margin-bottom: 0px;
 }
 
 #uci-subtitle {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 400;
     margin-bottom: 0px;
 }
 
@@ -126,14 +126,14 @@
 #cafe-title {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 500;
     margin-bottom: 0px;
 }
 
 #cafe-subtitle {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 400;
     margin-bottom: 0px;
 }
 
@@ -163,9 +163,6 @@
 }
 
 .skills-content {
-    /* font-family: 'Roboto', sans-serif;
-    font-size: 18px;
-    font-weight: 300; */
     margin-top: 0px;
 }
 
@@ -185,24 +182,6 @@
     margin-top: 0px;
 }
 
-/* #vision-title { 
-    font-family: 'Roboto', sans-serif;
-    font-size: 20px;
-    font-weight: 300;
-    margin-bottom: 0px;
-}
-
-
-
-#vision-column {
-    margin-top: 0px;
-    padding-top: 0px;
-}
-
-#vision-content {
-    margin-top: 0px;
-} */
-
 #projects-title-column {
     margin-bottom: 0px;
     padding-bottom: 0px;
@@ -216,7 +195,7 @@
 .projects-inner-title {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 500;
     margin-bottom: 0px;
 }
 
@@ -228,5 +207,12 @@
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+    margin-bottom: 0px;
+}
+
+.skills-headers {
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
     margin-bottom: 0px;
 }
